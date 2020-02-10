@@ -1,2 +1,5 @@
 # dw_matrix
-cwiczenia projekt tranformacja Matrix
+projekt tranformacja Matrix
+
+- 5 dni ćwiczen - cześć piersza
+
